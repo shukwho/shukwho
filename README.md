@@ -10,12 +10,9 @@
 
 
 
-<img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/5af90048-57e9-43d9-9160-a7a01ec73d7c" /> 
-<img width="55" height="55" alt="image" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> 
-<img width="55" height="55" alt="image" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,hibernate,azure,jenkins,docker,gradle,eclipse,git,github,bash,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,azure,jenkins,maven,gradle,mysql,postgres,idea,eclipse,vscode,git,github,docker,bash,powershell,postman,discord,sublime,ubuntu)](https://skillicons.dev)
 
 
 
