@@ -14,6 +14,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,azure,jenkins,maven,gradle,mysql,postgres,idea,eclipse,vscode,git,github,docker,bash,powershell,postman,discord,sublime,ubuntu)](https://skillicons.dev)
 
+![Uploading image.png…]()
+
 
 
 
