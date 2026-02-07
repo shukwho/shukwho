@@ -27,6 +27,9 @@
 <img width="250" height="250" alt="Image" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzVmMzVpbW4ybmxldjh2NjQyMmJ5bGU2cm53ZXl6ZjdpemVzamMwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/awGA2x8j6BlgSAOG5e/giphy.gif" />
 
 
+![Snake animation](https://github.com/shukwho/shukwho/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
