@@ -18,6 +18,10 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,azure,jenkins,maven,gradle,mysql,postgres,idea,eclipse,vscode,git,github,docker,bash,powershell,postman,discord,sublime,ubuntu)](https://skillicons.dev)
 
 
+<img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/e6f529e2-9a11-4508-b5f2-d6f6e1c3dc16" />
+
+
+
 
 
 
