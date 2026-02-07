@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 <img width="500" height="750" alt="Image" src="https://github.com/user-attachments/assets/e6f529e2-9a11-4508-b5f2-d6f6e1c3dc16" />
+
+
+
 * I am Sushmita from India, currenlty residing in Bengaluru.
 * I am a backend developer.
 * Majorly I play with Java and Spring framework or is it the other way round? (Nobody knows)
