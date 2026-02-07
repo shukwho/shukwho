@@ -7,7 +7,7 @@
 * I’m looking to collaborate on ...
 * 📫 How to reach me: shukwho@gmail.com
 * ⚡ Fun fact: I also love to read Bhagavatgita and trying to love gym !!
-
+* My skills: 
 
 
 
