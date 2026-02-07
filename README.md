@@ -11,5 +11,5 @@
 
 
 <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/5af90048-57e9-43d9-9160-a7a01ec73d7c" />
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<img width="55" height="55" alt="image" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 
