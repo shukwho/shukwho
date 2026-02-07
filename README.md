@@ -15,6 +15,9 @@
 <img width="55" height="55" alt="image" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> 
 
 
+[![My Skills](https://skillicons.dev/icons?i=java,hibernate,azure,jenkins,docker,gradle,eclipse,git,github,bash,discord)](https://skillicons.dev)
+
+
 
 
 
