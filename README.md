@@ -19,7 +19,7 @@
 
 
 
-[![Sushmita's GitHub stats](https://github-readme-stats.vercel.app/api?username=shukwho)](https://github.com/shukwho/github-readme-stats)
+[![Sushmita's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shukwho)](https://github.com/shukwho/github-readme-stats)
 
 
 <img width="250" height="250" alt="Image" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmdrdHZ1eXhqbXZpNDMyNXVwOGo2aWN6ZWU1bm9scDg0dzM2ZGZ3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xaO6TmgQmKEQ4516sE/giphy.gif" />
